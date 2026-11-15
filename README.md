@@ -6,7 +6,6 @@ Online-Seminar, 3 Tage, jeweils 09:00–16:00 Uhr (Zoom). Sie bauen alle Schaltu
 
 | Ordner | Datei | Wann Sie sie brauchen |
 |---|---|---|
-| 00_Vor-dem-Kurs | S5386_Bestaetigung_Sicherheitsunterweisung.pdf | Am Tag 1 nach der Sicherheitsunterweisung ausfüllen und zurückgeben |
 | Tag-1 | S5386_Tag1_Handout.pdf, S5386_Tag1_Folien.pdf | Spannung, Strom, Widerstand, Leistung, Messen, Reihe, parallel, Spannungsteiler, NTC-Sensor |
 | Tag-1/nach-dem-Tag | S5386_Tag1_Loesungsblatt.pdf | Erst nach Tag 1 öffnen |
 | Tag-2 | S5386_Tag2_Handout.pdf, S5386_Tag2_Folien.pdf | Kondensator, RC-Kurve, Oszilloskop, Wechselstrom, Leistung, Sicherheit |
